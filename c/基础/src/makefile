@@ -3,8 +3,8 @@
 OBJECTS = hello.exe \
 	fahrenheit_celsius_float_version.exe \
 	fahrenheit_celsius.exe 
-BUILD_PATH = build
-BIN_PATH = bin
+BUILD_PATH = ../build
+BIN_PATH = ../bin
 CC = gcc
 CCFLAGS = -std=c99
 LOCFLAGS =
